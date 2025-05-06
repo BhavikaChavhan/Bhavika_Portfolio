@@ -1,0 +1,8 @@
+
+.vertical-timeline::before {
+  background: #fff !important; /* vertical line color */
+}
+
+.custom-timeline .vertical-timeline-element-date {
+  color: #ffffff; /* gray-400 */
+}
