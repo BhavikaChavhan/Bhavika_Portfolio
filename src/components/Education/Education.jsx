@@ -17,14 +17,14 @@ const educationData = [
   {
     date: "2019 - 2020",
     degree: "Higher Secondary (HSC)",
-    institute: "Govt. School For Excellence",
+    institute: "Govt. School For Excellence, Ujjain",
     description: "Completed 12th with Science stream.",
     icon: <FaSchool/>
   },
   {
     date: "2017 - 2018",
     degree: "Secondary (SSC)",
-    institute: "Govt. School For Excellence",
+    institute: "Govt. School For Excellence, Ujjain",
     description: "Completed schooling with 89% marks.",
     icon: <PiStudentFill />
   },
