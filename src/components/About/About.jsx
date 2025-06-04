@@ -43,7 +43,7 @@ const About = () =>{
                         I'm a passionate Frontend Developer with 1 year of hands-on training experience in building responsive and user-friendly web interfaces. Skilled in HTML, CSS, JavaScript, and modern frameworks like ReactJS. I love turning design ideas into functional, interactive websites with clean code and smooth animations.
                     </p>
 
-                    <a href="https://drive.google.com/file/d/1wly9S4NQ-6k4rgmCzAKFzWeNahFBz8_W/view?usp=drivesdk" 
+                    <a href="https://drive.google.com/file/d/1IysDyifttG9ghp6oBM9fDEyvpf5O5yZZ/view?usp=drivesdk" 
                     target='_blank'
                     rel='noopener noreferrer' 
                     className='inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold tranition duration-300 transform hover:scale-105'
